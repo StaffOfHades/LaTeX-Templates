@@ -1,0 +1,65 @@
+---
+title: "Presentation 1"
+author: "Mauricio Graciano"
+date: "July 8, 2018"
+bibliography: /home/development/Documents/LaTeX/example.bib
+output:
+   beamer_presentation:
+      theme: "Malmoe"
+      colortheme: "crane"
+      fonttheme: "structuresmallcapsserif"
+      toc: true
+      slide_level: 3
+      template: beamer.latex
+# theme: "Szeged" "Dresden"
+# colortheme: "rose"
+# fonttheme: "professionalfonts"
+---
+
+
+# Introduction
+### The Beggining
+
+
+Here is text
+
+
+* This is a list
+* another list item
+* etc...
+
+
+@chomsky00
+
+# Objectives
+## Past Sprint
+### Front End
+
+
+Hello
+
+
+### Backend
+
+GoodBye
+
+# Progress
+### Front End
+
+
+F
+
+
+### Back End
+
+B
+
+# Conclusions
+###
+
+
+> That it
+
+
+# Bibliography
+###
